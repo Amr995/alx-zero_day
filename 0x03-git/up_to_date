@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull
+=======
+git add file_name
+>>>>>>> update_script
